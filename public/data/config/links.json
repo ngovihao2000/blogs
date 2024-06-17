@@ -1,0 +1,30 @@
+{
+    "links": [
+        {
+            "title": "The Secret Door",
+            "desc": "trang web này là bạn có thể di chuyển để khám phá các ngóc ngách tại không gian",
+            "link": "http://secretdoor.notepadwebdevelopment.com/"
+        },        
+        {
+            "title": "Museum of Endangered Soundsite",
+            "desc": "Nếu bạn thuộc tuýp người hoài niệm, khao khát được tìm lại những kỷ niệm đã đi vào dĩ vãng ",
+            "link": "http://savethesounds.info/"
+        },
+        {
+            "title": "Zoom Quilt",
+            "desc": "Bạn muốn test thử thị lực của mình? Bạn muốn thử thách sự sáng tạo của bản thân?hãy tới trang web này",
+            "link": "https://zoomquilt.org/#google_vignette"
+        },
+        {
+            "title": "Hacker Typer",
+            "desc": "Nghe có vẻ kỳ quặc nhưng Hacker Typer sẽ giúp bạn có cảm giác như một hacker chuyên nghiệp.",
+            "link": "https://hackertyper.net/"
+        },                
+        {
+            "title": "Rainy Mood",
+            "desc": " trang web giải trí dành cho những ai đang muốn tìm về một chốn bình yên nhẹ nhàng",
+            "link": "https://rainymood.com/"
+        }
+
+    ]
+}

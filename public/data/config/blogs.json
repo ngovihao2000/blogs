@@ -1,0 +1,113 @@
+{
+    "blogs": [
+        {
+            "id": "blog1",
+            "title": "Trump đóng blog",
+            "tags": ["Giải trí", "Thế giới", "Góc nhìn", "Chính trị","Thời sự","Hot"],
+            "cover": "blog1.jpg",
+            "des": " Blog của Trump, nơi ông chia sẻ các tuyên bố với người ủng hộ sau khi bị cấm trên những mạng xã hội như Twitter và Facebook, đã bị đóng",
+            "useNumbers": true,
+            "live": true,
+            "date": [
+                2,6,2023
+            ]            
+        },
+        {
+            "id": "blog2",
+            "title": "'Hành tinh khỉ' - bom tấn đột phá về kỹ xảo",
+            "tags": ["Giải trí", "Phim", "Khoa học viễn tưỡng", "Hot"],
+            "cover": "blog2.jpg",
+            "des":  "'Hành tinh khỉ: Vương quốc mới' được khen kỹ xảo ngang tầm 'Avatar' cùng câu chuyện giàu cảm xúc về loài khỉ thống trị Trái đất.",
+            "useNumbers": false,
+            "live": true,
+            "date": [
+                12,5,2024
+            ]            
+        },
+        {
+            "id": "blog3",
+            "title": "Phim của Cổ Thiên Lạc được khen cảnh đấu võ",
+            "tags": ["Giải trí", "Phim", "Võ thuật","Hot"],
+            "cover": "blog3.jpg",
+            "des": "'Cửu Long thành trại: Vi thành', có Cổ Thiên Lạc, Hồng Kim Bảo đóng chính, được khen cảnh hành động lẫn nội dung.",
+            "useNumbers": false,
+            "live": false,
+            "date": [
+                30,4,2024
+            ]            
+        },
+        {
+            "id": "blog4",
+            "title": "The Lord of the Rings' có phần mới",
+            "tags": ["Giải trí", "Phim", "Khoa học viễn tưỡng", "Hot"],
+            "cover": "blog4.jpg",
+            "des": "Phần mới nhất của The Lord of the Rings - The Hunt for Gollum - sẽ ra mắt 2026, Andy Serkis đạo diễn, đóng chính.",
+            "useNumbers": false,
+            "live": true,
+            "date": [
+                10,5,2024
+            ]            
+        },
+        {
+            "id": "blog5",
+            "title": "Những người Việt chờ vượt biển đến Anh",
+            "tags": ["Giải trí","Thế giới", "Góc nhìn", "Người Việt 5 châu","Thời sự","Hot"],
+            "cover": "blog5.jpg",
+            "des": "Trong đoàn di cư chờ cơ hội vượt eo biển Manche từ Pháp đến Anh, người Việt là nhóm nổi bật và có xu hướng ngày càng tăng..",
+            "useNumbers": false,
+            "live": true,
+            "date": [
+                17,4,2024
+            ]       
+        },
+        {
+            "id": "blog6",
+            "title": "Angelina Jolie bị tố cáo khuyên các con 'không gặp Brad Pitt'",
+            "tags": ["Giải trí", "Thế giới", "Giới Sao", "Hot"],
+            "cover": "blog6.jpg",
+            "des": "Cựu vệ sĩ nhà Angelina Jolie và Brad Pitt nói cô 'khuyến khích' các con không gặp bố, dùng hợp đồng bảo mật kiểm soát nhân viên..",
+            "useNumbers": false,
+            "live": true,
+            "date": [
+                23,3,2024
+            ]            
+        },
+        {
+            "id": "blog7",
+            "title": "Mbappe thông báo rời PSG",
+            "tags": ["Giải trí", "Bóng Đá", "Thể Thao","Thế giới","Giới Sao"],
+            "cover": "blog7.jpg",
+            "des": "Trên mạng xã hội, tiền đạo Pháp Kylian Mbappe thông báo sẽ rời PSG khi hợp đồng hết hạn vào cuối mùa 2023-2024, khép lại 7 năm gắn bó với CLB.",
+            "useNumbers": false,
+            "live": true,
+            "date": [
+                11,5,2024
+            ]            
+        },
+        {
+            "id": "blog8",
+            "title": "Medvedev: 'Nadal và Djokovic khắc chế nhau'",
+            "tags": ["Giải trí", "Thế giới", "Thể Thao", "Giới Sao","Tenins"],
+            "cover": "blog8.jpg",
+            "des": " Tay vợt số bốn thế giới Daniil Medvedev cho rằng nếu không đua song mã quá lâu, Novak Djokovic và Rafael Nadal sẽ có bộ sưu tập đồ sộ hơn.",
+            "useNumbers": false,
+            "live": true,
+            "date": [
+                10,5,2024
+            ]            
+        },
+        {
+            "id": "blog9",
+            "title": "Nadal thắng ngược vòng một Rome Masters",
+            "tags":["Giải trí", "Thế giới", "Thể Thao", "Giới Sao","Tenins"],
+            "cover": "blog9.jpg",
+            "des": " Tay vợt số bốn thế giới Daniil Medvedev cho rằng nếu không đua song mã quá lâu, Novak Djokovic và Rafael Nadal sẽ có bộ sưu tập đồ sộ hơn.",
+            "useNumbers": false,
+            "live": true,
+            "date": [
+                10,5,2024
+            ]            
+        }
+
+    ]
+}
